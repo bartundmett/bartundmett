@@ -21,7 +21,6 @@
 - **AI-native delivery** – Building workflows where AI has the right context to actually ship, not just suggest
 - **Context engineering** – Spending time on skill files and structured knowledge instead of hoping for magic
 - **Agentic commerce** – MCP servers and agent skills that turn e-commerce platforms into something AI can work with
-- **ARD Text im Auftrag von Funk**
 - **Writing on LinkedIn** – About what happens when you stop treating AI as autocomplete
 - **Storyblok MVP**
 - **Just having fun.**
