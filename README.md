@@ -15,6 +15,7 @@
 - 🧠 **[skills](https://github.com/bartundmett/skills)** - Agent skills for Shopware, Storyblok, Intershop & more – context that makes AI useful
 - 🧱 **[bloktastic](https://github.com/bartundmett/bloktastic)** - Storyblok component registry, ship prompts not code
 - 🍌 **[benana](https://github.com/bartundmett/benana)** - Gemini-powered image generation desktop mac app
+- 🏥 **[bloktor](https://github.com/bartundmett/bloktor)** - ESLint, but for Storyblok Space Setups
 
 ## What I'm Doing
 
